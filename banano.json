@@ -1,0 +1,6 @@
+{
+  "AppPort":"8080",
+  "AppDb":"banano.db",
+  "AppUser":"api",
+  "AppPass":"secret"
+}
